@@ -1,0 +1,31 @@
+﻿  Actor.cpp
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(270,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(270,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(271,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(271,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(272,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(272,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(274,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(274,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(277,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(277,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(397,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(399,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\Actor.cpp(399,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(204,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(208,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(248,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(248,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(257,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(257,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(266,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(266,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(276,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(276,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(317,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(317,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(333,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\utkar\Desktop\SuperPeachSisters\SuperPeachSisters\StudentWorld.cpp(333,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SuperPeachSisters.vcxproj -> C:\Users\utkar\Desktop\SuperPeachSisters\Debug\SuperPeachSisters.exe
