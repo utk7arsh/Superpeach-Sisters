@@ -1,6 +1,6 @@
 # Superpeach-Sisters
 
-##Introduction
+## Introduction
 
 Super Peach Sisters is set in the Mushroom Queendom, fictional land of crazy creatures
 like fire-breathing piranhas, koopas and goombas. Unfortunately, last week Mario was
@@ -43,4 +43,8 @@ More details regarding the game mechanics is given in the spec file
 This is my submission for the Project 3 of Computer Science 32 : Intro to CS 2 taught by professor Smallberg in Winter 2022.
 I got a perfect score in the project for building a game exactly according to the spec. You can find my other CS 32 submissions
 on https://github.com/utk7arsh/CS-32-UCLA-Winter-22
+
+### Screenshot of the game
+![Screenshot 2022-07-15 180007](https://user-images.githubusercontent.com/66383982/179223195-f6ada356-1ba1-48f6-b6da-b5361dd1ee3e.png)
+
 
